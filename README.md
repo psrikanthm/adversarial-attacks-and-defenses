@@ -1,6 +1,9 @@
 # TASK 4, COMP 551:: Adversarial Machine Learning
 All source code are put under *src* subdirectory.
 
+### Project report file
+adversarial-attacks-image.pdf
+
 ### Link to the video
 [Link](https://www.youtube.com/watch?v=f_g79JxyPjI)
 
